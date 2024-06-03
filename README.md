@@ -1,2 +1,2 @@
 # LCSEP
-Code for paper LCSEP.
+Source code for paper LCSEP.
